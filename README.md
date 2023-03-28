@@ -28,9 +28,8 @@ el manejo de ambientes y errores. Implementa la autenticación de users a tu tie
     npm install
     npm start
 
+## Herramientas extras 😄
+* Node : https://nodejs.org/en/download
+* Postman : https://www.postman.com/     
+* JSON Viewer : https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es
 
-## Crear entorno FREE :green_heart:
-    https://stackblitz.com
-
-## Deploy con Firebase
-    https://yarnstore-8dc64.web.app/
