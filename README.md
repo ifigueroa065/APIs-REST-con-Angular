@@ -1,0 +1,36 @@
+
+# APIs REST con Angular :star: :mechanical_arm:
+Aprende sobre las principales solicitudes HTTP basic en Angular. Descubre las buenas prácticas para 
+el manejo de ambientes y errores. Implementa la autenticación de users a tu tienda en línea.
+
+## Objetivos :rocket:    
+  * Implementar credenciales en tu tienda en línea
+  * Resolver el problema de CORS
+  * Aprender sobre el uso de interceptores
+  * Manejar archivos con Http
+  
+## Instalación de Angular CLI  :zap: :gear:
+  
+    Verifica versión de Node:    node -v
+    Verifica versión de npm:     npm -v
+    Instala el CLI de Angular:   npm i -g @angular/cli
+    Verifica tu instalación:     ng version
+    Crea tu primer proyecto:     ng new my-project
+                                    
+    Ejecuta el servidor de desarrollo: 
+                                    ng serve Dentro de la carpeta de tu proyecto.
+    Lanzar servidor de desarrollo y que abra el navegador automáticamente:ng serve -o
+    Lanzar el servidor en un puerto especifico: ng serve -o --port=3500
+    Kill process : Ctrl C
+    Si lanzamos el comando ng version desde la carpeta del proyecto podremos obtener mayor detalle de las tecnologías utilizadas (Dependencias).
+
+## Correr Proyecto de angular :space_invader:
+    npm install
+    npm start
+
+
+## Crear entorno FREE :green_heart:
+    https://stackblitz.com
+
+## Deploy con Firebase
+    https://yarnstore-8dc64.web.app/
