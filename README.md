@@ -32,4 +32,5 @@ el manejo de ambientes y errores. Implementa la autenticación de users a tu tie
 * Node : https://nodejs.org/en/download
 * Postman : https://www.postman.com/     
 * JSON Viewer : https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es
-
+* API-DEL PROYECTO: https://young-sands-07814.herokuapp.com/api/products
+* API-DOCU: https://young-sands-07814.herokuapp.com/docs/#/
