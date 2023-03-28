@@ -1,5 +1,5 @@
 
-# APIs REST con Angular :star: :mechanical_arm:
+# APIs REST con Angular :dolphin: 🧡
 Aprende sobre las principales solicitudes HTTP basic en Angular. Descubre las buenas prácticas para 
 el manejo de ambientes y errores. Implementa la autenticación de users a tu tienda en línea.
 
