@@ -15,12 +15,13 @@ export class ProductComponent {
     images: [],
     title: '',
     category: {
-      id:'',
-      name:'',
+      id: '',
+      name: '',
     },
     description: ''
   };
   @Output() addedProduct = new EventEmitter<Product>();
+  @Output() showProduct = new EventEmitter<string>();
 
   constructor() { }
 
@@ -28,4 +29,7 @@ export class ProductComponent {
     this.addedProduct.emit(this.product);
   }
 
+  onShowDetail() {
+    this.showProduct.emit(this.product.id);
+  }
 }
