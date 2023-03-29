@@ -1,36 +1,20 @@
 
-# APIs REST con Angular :dolphin: 🧡
-Aprende sobre las principales solicitudes HTTP basic en Angular. Descubre las buenas prácticas para 
-el manejo de ambientes y errores. Implementa la autenticación de users a tu tienda en línea.
+# Componentes y Servicios :green_heart: 
+Profundizando conocimientos en Angular, el framework de desarrollo creado por Google. Dividiendo un proyecto en componentes y conociendo más sobre la arquitectura de este framework. Conectando aplicaciones con una API para obtener datos de un sistema de Backend.
 
 ## Objetivos :rocket:    
-  * Implementar credenciales en tu tienda en línea
-  * Resolver el problema de CORS
-  * Aprender sobre el uso de interceptores
-  * Manejar archivos con Http
+  * Conocer sobre los componentes y su interacción
+  * Obtener datos de una API
+  * Practicar y entender sobre programación reactiva
   
-## Instalación de Angular CLI  :zap: :gear:
-  
-    Verifica versión de Node:    node -v
-    Verifica versión de npm:     npm -v
-    Instala el CLI de Angular:   npm i -g @angular/cli
-    Verifica tu instalación:     ng version
-    Crea tu primer proyecto:     ng new my-project
-                                    
-    Ejecuta el servidor de desarrollo: 
-                                    ng serve Dentro de la carpeta de tu proyecto.
-    Lanzar servidor de desarrollo y que abra el navegador automáticamente:ng serve -o
-    Lanzar el servidor en un puerto especifico: ng serve -o --port=3500
-    Kill process : Ctrl C
-    Si lanzamos el comando ng version desde la carpeta del proyecto podremos obtener mayor detalle de las tecnologías utilizadas (Dependencias).
 
-## Correr Proyecto de angular :space_invader:
-    npm install
-    npm start
+### A lo largo de este curso aprendí sobre:
 
-## Herramientas extras 😄
-* Node : https://nodejs.org/en/download
-* Postman : https://www.postman.com/     
-* JSON Viewer : https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related?hl=es
-* API-DEL PROYECTO: https://young-sands-07814.herokuapp.com/api/products
-* API-DOCU: https://young-sands-07814.herokuapp.com/docs/#/
+  * Componentes en Angular
+  * Comunicación entre componentes
+  * Ciclo de vida de un componente
+  * Servicios en Angular
+  * Inyección de dependencias
+  * Consumo de datos provenientes de una API
+  * Pipes y Directivas  
+
