@@ -1,8 +1,13 @@
 
-# Frontend con Angular :dolphin: 🧡
+# APIs REST con Angular :dolphin: 🧡
 Aprende sobre las principales solicitudes HTTP basic en Angular. Descubre las buenas prácticas para 
 el manejo de ambientes y errores. Implementa la autenticación de users a tu tienda en línea.
 
+## Objetivos :rocket:    
+  * Implementar credenciales en tu tienda en línea
+  * Resolver el problema de CORS
+  * Aprender sobre el uso de interceptores
+  * Manejar archivos con Http
   
 ## Instalación de Angular CLI  :zap: :gear:
   
